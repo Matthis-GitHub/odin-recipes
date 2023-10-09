@@ -1,0 +1,19 @@
+body {
+  font-family: Verdana, sans-serif;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+}
+
+h1,
+h2,
+h3 {
+  color: rgba(255, 0, 255, 0.9);
+}
+
+strong {
+  color: aqua;
+}
+
+li {
+  color: aquamarine;
+}
